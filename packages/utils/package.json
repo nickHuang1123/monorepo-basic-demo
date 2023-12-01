@@ -1,0 +1,13 @@
+{
+  "name": "@packages/utils",
+  "version": "1.0.0",
+  "description": "utils 當作盾牌",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick",
+  "type": "module",
+  "license": "ISC"
+}

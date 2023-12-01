@@ -1,0 +1,17 @@
+{
+  "name": "@packages/core",
+  "version": "1.0.0",
+  "description": "core 當作愛心",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@packages/components": "workspace:*",
+    "@packages/utils": "workspace:*"
+  }
+}
