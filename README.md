@@ -1,4 +1,4 @@
-# monorepo demo
+# monorepo demo(node:18.18.1)
 
 > test monorepo demo 在 package core 中引入 components、utils 套件
 *  pnpm -F @packages/core add @packages/components@*
