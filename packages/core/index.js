@@ -17,7 +17,7 @@ function useCourage(hero) {
   console.log('  **  **  ');
   console.log('    **    ');
   console.log('=========================================');
-  console.log(`> -Hero ${hero} get a courage from core-`);
+  console.log(`> -Hero Nick start his adventure from core-`);
   console.log('=========================================');
 }
 
